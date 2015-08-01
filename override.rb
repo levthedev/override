@@ -25,3 +25,4 @@ a.my_method  # => nil
 # >> foo
 # >> bar
 # >> foo
+# everything works as expected - method is saved as a copy that can be referenced later.
